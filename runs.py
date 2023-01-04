@@ -1,4 +1,9 @@
-from main import train, evaluate
+from main import TrainOREvaluate
+
+
+
+
+'''from main import train, evaluate
 from model import MyAwesomeModel
 import matplotlib.pyplot as plt
 
@@ -16,4 +21,4 @@ plt.show()
 #model = MyAwesomeModel()
 #model.load_state_dict(torch.load('checkpoint.pth'))
 
-#evaluate(model)
+#evaluate(model)'''
